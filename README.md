@@ -24,7 +24,7 @@ In case you don't want to use GitHub codespace, you can also run this template i
 
 ### Update theme manually
 
-Run:
+Run: 
 
 ```bash
 hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
